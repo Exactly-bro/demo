@@ -7,3 +7,5 @@ This is sample readme file
 Some random updates
 
 branching
+
+This is good
